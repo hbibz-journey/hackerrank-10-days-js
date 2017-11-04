@@ -8,4 +8,4 @@ This is where you can find solutions to HackerRank challenge of 10 days of javas
 _stay tuned_
 Day | Solution
 ----|---------
-day 0    |[Hello World](https://github.com/hbibz-journey/hackerrank-10-days-js/blob/master/day0-helloWorld.js),[Data types](https://github.com/hbibz-journey/hackerrank-10-days-js/blob/master/day0-dataTypes.js)
+0|[Hello World](https://github.com/hbibz-journey/hackerrank-10-days-js/blob/master/day0-helloWorld.js),[Data types](https://github.com/hbibz-journey/hackerrank-10-days-js/blob/master/day0-dataTypes.js)
