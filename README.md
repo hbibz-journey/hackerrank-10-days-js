@@ -1,4 +1,3 @@
-# hackerrank-10-days-js
 # HackerRank 10 days JavaScript
 ## Author : [Muhammad Habib Jawady](https://www.facebook.com/hbibz2018)
 
